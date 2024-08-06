@@ -4,7 +4,7 @@ services:
     tty: true
     stdin_open: true
     ports:
-      - "192.168.50.100:25565:25565"
+     # - "xxx.xxx.xxx.xxx:25565:25565"
     environment:
       EULA: "TRUE"
       MOTD: "Juan is gay lol"
